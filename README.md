@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange)
 # AI Hand Cricket
 
 AI Hand Cricket is a webcam-based desktop game that uses hand-gesture recognition to let a player score runs against an adaptive computer opponent. The project combines OpenCV for camera access, MediaPipe for hand tracking, and a PyQt5 desktop UI for the live scoreboard, ball history, and leaderboard.
@@ -62,7 +66,7 @@ This logic lives in the `ai_move()` method in `controlled_ball_system.py` and is
 ## Project Structure
 
 ```text
-AI_Hand_Cricket/
+AI-Hand-Cricket-Game/
 |-- main.py
 |-- controlled_ball_system.py
 |-- hand_detector.py
